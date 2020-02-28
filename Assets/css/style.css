@@ -8,10 +8,6 @@
   body  {
     background-image: url(../Images/spikes.png);
   }
-  .container-fluid {
-      background-color: whitesmoke;
-  }
-
   footer {
     width: 100%;
     position: sticky;
